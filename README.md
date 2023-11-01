@@ -1,2 +1,2 @@
-# Phase-1-chatbot
+# chatbot
 Chatbot using Python
